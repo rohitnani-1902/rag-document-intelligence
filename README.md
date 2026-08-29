@@ -2,8 +2,6 @@
 
 An evidence-first, browser-based document retrieval prototype. Upload supported text files, ask a question, and inspect the ranked passages used to construct every answer.
 
-![Sift AI preview](https://github.com/rohitnani-1902/rag-document-intelligence/raw/main/public/og.png)
-
 ## What it does
 
 - Reads `.txt`, `.md`, `.csv`, and `.json` files directly in the browser
